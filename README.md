@@ -1,1 +1,2 @@
 # Solar-and-Vertical-Wind-Hybrid-Energy-System
+This hybrid system integrates a solar panel and a vertical wind turbine to generate renewable energy. It collects power from both sources, with the system designed to supply electricity to various electronic products, especially in remote areas or where grid power is unavailable. The system ensures that there is always a power supply available by using a 12V battery to store energy during the day for use at night or during periods of low energy generation.
